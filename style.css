@@ -1,9 +1,11 @@
 body {
-    background-color: #a79696;
+    background: rgb(171,11,180);
+    background: linear-gradient(90deg, rgba(171,11,180,1) 0%, rgba(117,8,173,1) 48%, rgba(156,0,255,1) 83%);
+    color: white;
 }
 
 header {
-    background-color: grey;
+    
 }
 
 header h1 {
@@ -14,7 +16,7 @@ header h1 {
 }
 
 .container {
-    background-color: grey;
+    
 }
  .container p {
     font-weight: bold;
@@ -23,7 +25,7 @@ header h1 {
  }
 
 div {
-    background-color: grey;
+    
 }
 
  .primeira-pessoa img {
