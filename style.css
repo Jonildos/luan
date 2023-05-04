@@ -1,0 +1,43 @@
+body {
+    background-color: #a79696;
+}
+
+header {
+    background-color: grey;
+}
+
+header h1 {
+    font-size: 60px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+.container {
+    background-color: grey;
+}
+ .container p {
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+ }
+
+div {
+    background-color: grey;
+}
+
+ .primeira-pessoa img {
+    width: 25%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 6%;
+    display: flex;
+  
+ }
+
+ .primeira-pessoa p {
+    margin-top: 15%;
+   margin-right: 20%;
+    float: right;
+    font-size: 40px;
+ }
